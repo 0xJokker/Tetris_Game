@@ -6,6 +6,11 @@ En este juego, los jugadores deben rotar y mover piezas de diferentes formas par
 
 
 
+https://user-images.githubusercontent.com/129913584/235808373-bd054b55-296d-4886-8c9d-153481a2f961.mp4
+
+
+
+
 # Autor
  [2023] [Eduard Sepulveda]
 
