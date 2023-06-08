@@ -10,17 +10,3 @@ https://user-images.githubusercontent.com/129913584/235808373-bd054b55-296d-4886
 
 [ https://jokerc0.github.io/Tetris_Game/ ]
 
-
-
-# Autor
- [2023] [Eduard Sepulveda]
-
-
-# Demo
-
-[GitHub](https://github.com/JokerC0)
-
-
-# License
-
-Apache 2.0 copyright ©  **Eduard Sepulveda**
